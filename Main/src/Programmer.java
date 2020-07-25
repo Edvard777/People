@@ -1,6 +1,6 @@
-class Programmer extends Person{
+ class Programmer extends Person{
 
-    String companyName;
+    private String companyName;
 
 
 

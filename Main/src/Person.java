@@ -1,7 +1,7 @@
-class Person {
+ class Person {
 
-    String name;
-    String designation;
+    private String name;
+    private String designation;
 
 
     void learn()
