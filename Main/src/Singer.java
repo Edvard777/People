@@ -1,6 +1,6 @@
 class Singer extends Person{
 
-    private String bandName;
+    String bandName;
 
 
 

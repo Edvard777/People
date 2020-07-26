@@ -1,6 +1,6 @@
 class Dancer extends Person{
 
-   private String groupName;
+    String groupName;
 
 
     void dancing()
