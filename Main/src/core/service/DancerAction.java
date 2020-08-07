@@ -1,5 +1,5 @@
 package core.service;
 
 public interface DancerAction extends BasePersonAction {
-    void dancing();
+    void dancing(String name,String surname, String lastname);
 }

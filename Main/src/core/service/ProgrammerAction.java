@@ -1,5 +1,5 @@
 package core.service;
 
 public interface ProgrammerAction extends BasePersonAction {
-    void coding();
+    void coding(String name,String surname, String lastname);
 }

@@ -1,9 +1,12 @@
 package core.service;
 
 public interface BasePersonAction {
-    void learn();
+    void learn(String name,String surname, String lastname);
 
-    void eat();
+    void eat(String name,String surname, String lastname);
 
-    void walk();
+    void walk(String name,String surname, String lastname);
+
+    void actionType(String name, String surname, String lastname);
+
 }
